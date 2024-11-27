@@ -3,8 +3,8 @@
 
 int main()
 {
-	printf("hello world");
-	printf("file fetched from github");
+	printf("hello world\n");
+	printf("file fetched from github\n");
 
 
 
